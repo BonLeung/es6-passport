@@ -1,2 +1,5 @@
-console.log('a');
-alert('hello world');
+const app = () => {
+  alert('hello world')
+}
+
+app()
